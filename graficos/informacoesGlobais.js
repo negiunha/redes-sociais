@@ -1,5 +1,3 @@
-INFORMAÇÕES GLOBAIS.JS
-
 const url = 'https://raw.githubusercontent.com/guilhermeonrails/api/main/dados-globais.json&#39;
 
 async function vizualizarInformacoesGlobais() {
@@ -20,5 +18,3 @@ async function vizualizarInformacoesGlobais() {
 }
 
 vizualizarInformacoesGlobais()
-
-
